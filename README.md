@@ -1,8 +1,9 @@
 SPIEGELCaptions
 ===============
 
-Eine Bildunterschrift, zwei Teile, Zusammenhang unklar: wie im SPIEGEL. Bot von
-[@texttheater](https://twitter.com/texttheater).
+A Twitterbot parody of German magazine DER SPIEGEL’s image captions. Takes
+existing captions and recombines them randomly, making just as much sense.
+Live at [@SPIEGELCaptions](https://twitter.com/SPIEGELCaptions).
 
 To download one year of DER SPIEGEL articles as PDFs:
 
