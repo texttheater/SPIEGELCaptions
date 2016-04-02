@@ -40,6 +40,8 @@ with open('part1.txt', 'w') as f1, open('part2.txt', 'w') as f2:
             continue
         if part2.endswith('Mark') or part2.endswith('Mark.'):
             continue
+        if part2.endswith('Euro') or part2.endswith('Euro.'):
+            continue
         if ' ' not in part1 or ' ' not in part2:
             continue
         # Output:
