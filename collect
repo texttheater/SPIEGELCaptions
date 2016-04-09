@@ -38,6 +38,8 @@ with open('part1.txt', 'w') as f1, open('part2.txt', 'w') as f2:
             continue
         if part1.startswith('Quelle'):
             continue
+        if part1.startswith('Das Gespräch führte'):
+            continue
         if part2.endswith('Mark') or part2.endswith('Mark.'):
             continue
         if part2.endswith('Euro') or part2.endswith('Euro.'):
