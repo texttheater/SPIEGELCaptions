@@ -13,12 +13,19 @@ To convert all PDFs to TXT using `pdf2txt` and GNU Parallel (Tange 2011):
 
     $ find articles -name \*.pdf | sed -e 's/pdf/txt/' | parallel make
 
-To extract caption halves from the text files:
+To extract captions halves from the text files:
 
-    $ find articles -name \*.txt -exec cat {} \; | ./collect
+    $ find articles -name \*.txt -exec cat {} \; | ./collect | ./filter > captions.txt
 
-This will overwrite `part1.txt` and `part2.txt`, which in their distributed
-version are based on the DER SPIEGEL archives of 2001–2014.
+After adding new filters to `filter`, re-run the above command. Or, if you
+don’t have the article text files anymore:
+
+    $ make refilter
+
+This will overwrite `captions.txt`.
+
+The `captions.txt` currently in the repository is based on the DER SPIEGEL
+archives of 2001–2014.
 
 To make a random tweet and post it:
 
