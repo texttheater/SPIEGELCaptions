@@ -28,6 +28,8 @@ for line in sys.stdin:
         continue
     if not part1[-1].islower():
         continue
+    if len(part1) > 1 and part1[1] == ' ':
+        continue
     if part1.startswith('Quelle'):
         continue
     if part1.replace(' ', '').startswith('DasGesprächführte'):
