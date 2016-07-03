@@ -1,53 +1,28 @@
 #!/usr/bin/env python3
 
+
 """
-Creates part1.txt and part2.txt from text input on STDIN.
+Extracts candidate captions from the pdf2txt outputs.
 """
+
 
 import sys
 import util
 
-def seems_to_be_spaced(string):
-    return string[1] == ' ' and string[3] == ' '
 
-with open('part1.txt', 'w') as f1, open('part2.txt', 'w') as f2:
-    for block in util.blocks(sys.stdin):
-        # Identify potential captions:
-        if len(block) == 1:
-            try:
-                part1, part2 = block[0].split(': ')
-            except ValueError:
-                continue
-        elif len(block) == 2:
-            part1, part2 = block
-        else:
+for block in util.blocks(sys.stdin):
+    # Identify potential captions:
+    if len(block) == 1:
+        try:
+            part1, part2 = block[0].split(': ')
+        except ValueError:
             continue
-        # Cleanup:
-        part1 = part1.strip()
-        part2 = part2.strip()
-        # Various heuristics to filter out bad data:
-        if not part1:
-            continue
-        if not part2:
-            continue
-        if not part1[0].isupper():
-            continue
-        if not part2[0].isupper():
-            continue
-        if not part1[-1].islower():
-            continue
-        if part1.startswith('Quelle'):
-            continue
-        if part1.startswith('Das Gespräch führte'):
-            continue
-        if part2.endswith('Mark') or part2.endswith('Mark.'):
-            continue
-        if part2.endswith('Euro') or part2.endswith('Euro.'):
-            continue
-        if ' ' not in part1 or ' ' not in part2:
-            continue
-        # Output:
-        print(part1, file=f1)
-        print(part2, file=f2)
-        f1.flush()
-        f2.flush()
+    elif len(block) == 2:
+        part1, part2 = block
+    else:
+        continue
+    # Cleanup:
+    part1 = part1.strip()
+    part2 = part2.strip()
+    # Print:
+    print('{}\t{}'.format(part1, part2))
