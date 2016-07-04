@@ -22,6 +22,10 @@ for line in sys.stdin:
         continue
     if not part2:
         continue
+    if ':' in part1:
+        continue
+    if ':' in part2:
+        continue
     if not part1[0].isupper():
         continue
     if not part2[0].isupper():
