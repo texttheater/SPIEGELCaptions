@@ -25,7 +25,8 @@ don’t have the article text files anymore:
 This will overwrite `captions.txt`.
 
 The `captions.txt` currently in the repository is based on the DER SPIEGEL
-archives of 2001–2014.
+archives of issues 22/1996—52/2015 (selected for PDF availability and
+quality).
 
 To make a random tweet and post it:
 
