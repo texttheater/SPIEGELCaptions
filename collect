@@ -6,11 +6,12 @@ Extracts candidate captions from the pdf2txt outputs.
 """
 
 
+import re
 import sys
 import util
 
 
-# The logic below is new, TODO test it on the data
+spaces_pattern = re.compile(r' +')
 
 
 for block in util.blocks(sys.stdin):
@@ -45,5 +46,7 @@ for block in util.blocks(sys.stdin):
     # Cleanup:
     part1 = part1.strip()
     part2 = part2.strip()
+    part1 = spaces_pattern.sub(' ', part1)
+    part2 = spaces_pattern.sub(' ', part2)
     # Print:
     print('{}\t{}'.format(part1, part2))
