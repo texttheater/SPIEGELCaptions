@@ -44,6 +44,8 @@ for line in sys.stdin:
         continue
     if part2.endswith('Euro') or part2.endswith('Euro.'):
         continue
+    if 'SPIEGELONLINE' in part2.replace(' ', ''):
+        continue
     if ' ' not in part1 or ' ' not in part2:
         continue
     # Print:
