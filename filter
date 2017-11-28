@@ -40,6 +40,8 @@ for line in sys.stdin:
         continue
     if part1.replace(' ', '').startswith('AndieserStelle'):
         continue
+    if part1.endswith(' dem'):
+        continue
     if part2.endswith('Mark') or part2.endswith('Mark.'):
         continue
     if part2.endswith('Euro') or part2.endswith('Euro.'):

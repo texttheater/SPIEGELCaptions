@@ -1374,7 +1374,6 @@ Ja p a n i s c h e s	M e e r
 Harrer-Darsteller Pitt (r.) im Annaud-Film	Auf arisch blondiert
 Jiang (r.), Ehefrau Wang	Unter dem Dreispitz
 Jiang in Waikiki	Nach Maos Vorbild
-British-Airways-Jumbo auf dem	Flughafen London-Heathrow
 Blinder Passagier Pardeep Saini	Er wartet, ohne zu wissen, worauf
 Polizeieinsatz in Bundesliga-Stadion	Problematik nur verlagert
 Popstar Yorke, Bandkollegen	Alarm bei der Karma-Polizei
@@ -1877,7 +1876,6 @@ Schwangere Brasilianerinnen	Milchzucker mit Gu§
 Augen eines Bartkauzes	Optische Meisterleistung der Natur
 Autor Ravenhill	Schneller Zugriff, sofortiger Verbrauch
 Nationaltrainer Maldini, Jacquet	Kreativ Minderbemittelte
-KULTUR Die Stadt Salzburg gibt sich dem	Festspiel-Taumel hin.
 Christdemokraten Herzog, Kohl	Sinneswandel in eigener Sache
 Verteidiger Schwenn, Angeklagter Schlechtriem	Um Not abzuwenden?
 Reeperbahn-Etablissement Hotel Inter-Rast	Halbe Million Mark Miete pro Monat
@@ -2165,7 +2163,6 @@ Bank of China in Hongkong	Scharfe Kanten, die negative Energie abstrahlen
 Feng-Shui-Anwendung im Garten	Harmonischer Chi-Flu§
 Russische Sportidole der Sowjet-Zeit	Politik mit anderen Mitteln
 Randale-Opfer Nivel	Ende der Betroffenheit
-Staatsgrenze nach dem	Frieden von Lausanne 1923
 Massaker japanischer Soldaten in Nanking	Blutrausch mit 300 000 Toten
 Mexikanische Helfer in Honduras	Streit um die Nahrung
 Ex-Geheimdienstler Bittman	Klatsch aus Wien
@@ -2890,7 +2887,6 @@ Narkolepsie-Patient im Schlaflabor	Sog in die Tiefe
 Narkoleptiker Napoleon	Schlafattacken bei Audienzen
 Autorin Melo	Begnadete Sprachhexe
 Theatergast Stigwood, Begleiterin	Ruhm und Rum
-Ich kann mir unter dem	Begrif f nichts vorstellen
 CSU-Spezl Schreiber	Reichlich Spenden an die Partei
 CDU-Senator Werthebach	Aufforderung zum Rechtsbruch?
 Hypo-Immobilie in Berlin	Keine Besserung in Sicht
@@ -2912,7 +2908,6 @@ Krankenzimmer im Hospital in Bedford	Durchhalten im Chaos
 Bergsturz am Petit Dru	Als Erdbeben registriert
 Shoah-Vertreter Engel	Globales Happy End
 Kommandozentrale des Energiekonzerns Gazprom in Moskau	Mit Leichtigkeit lahm legen?
-Ich kann mir unter dem	Begrif f nichts vorstellen
 Das Jahrhundert des geteilten Deutschland	Die Ära Honecker
 Weltjugendspiele 1973 in Ost-Berlin	Ein Hauch von Woodstock
 Das Jahrhundert des geteilten Deutschland	Die Ära Honecker
@@ -5044,7 +5039,6 @@ Duisburger Stadtteil Laar, evangelische Kirche	Schlote und Bu§zucht
 Burjatien-Hauptstadt Ulan-Ude	Geografischer Kunstgriff
 Angeklagte Schmidt, Wedrac	Ein Selbstmordkommando?
 Zuckerforscher Schietzel, Jungmann mit Leuchtstift	Geheimnisse im Streulicht
-Kristallurne mit dem	Herzen Ludwigs XVII.
 Ost-Berliner Szenerie	Graue Farben wie im Heidelberg der Kindheit
 Musiker Sakamoto	Melodien zwischen Eduscho und Satie
 Milliarden-Projekt Hochschule	Halb zog es ihn, halb sank er hin
@@ -5269,13 +5263,9 @@ Fernreisende in der Economy-Klasse	Exaktes Gegenteil von Gesundheit
 Thrombose-Opfer Christoffersen	Jährlich 2000 Todesfälle im Flugzeug
 WM-Gegner Kramnik, Kasparow	Eine Tragödie von griechischer Dimension
 Ich werde selbst an einer	Demonstration teilnehmen.
-Ich halte nichts von dem	Ziel der Veranstaltungen.
 Ich werde selbst an einer	Demonstration teilnehmen.
-Ich halte nichts von dem	Ziel der Veranstaltungen.
 Ich werde selbst an einer	Demonstration teilnehmen.
-Ich halte nichts von dem	Ziel der Veranstaltungen.
 Ich werde selbst an einer	Demonstration teilnehmen.
-Ich halte nichts von dem	Ziel der Veranstaltungen.
 Mehdorn, Schröder	Deutschland steht im Stau
 Gesprächspartner Spiegel, Merkel	Konﬂikt zwischen Traditionalisten und Modernisierern
 Parteifreunde Bosbach, Merz	Stammkundschaft bei Laune halten
@@ -7313,7 +7303,6 @@ Neues Netzwerk	Die Hewlett-Packard-Compaq-Fusion
 Hewlett-Packard-Chef in Fiorina, Compaq-Chef Capellas	Wird bei diesem Deal aus eins plus
 Gipfel-Demonstranten in Genua	Symbol des Protests
 Rockstar Madonna	Anruf genügt
-ZDF-Zentrale auf dem	Mainzer Lerchenberg, Stolte
 Das Familienunternehmen	Wem der Axel Springer Verlag gehört
 Berliner Konzernzentrale	Alle unternehmerischen Verbindungen zu Kirch gekappt
 Kontrahenten Döpfner, Kirch	Unverhüllte Drohung aus München
@@ -7873,7 +7862,6 @@ Marseille-Klinik*, Parteifreunde Marseille, Schill	Aktivisten in Sachsen-Anhalt 
 Kölner Dom, Kardinal Meisner	Theoretisch 500 Millionen wert
 Bürgermeister Bloomberg	Irritationen im eigenen Haus
 Euro-Präsentation in Berlin	Düstere „Risikovariante“
-Szenario aus dem	Stabilitätsprogramm 2000
 Finanzminister Eichel, Fabius	Auf den letzten Platz zurückgefallen
 Finanzplatz Zürich	Zwanzig Namen überprüft
 Deutsche-Bank-Zentrale, Banker Breuer, Ackermann	Nicht der Sprecher, die Mehrheit entscheidet
@@ -8335,9 +8323,7 @@ Dopingjäger Guariniello	Die Grauzone des Sports von Scheinwerfern beleuchtet
 Er ypo, NeoRecormon	Erythropoetin (Epo)
 Doper Mühlegg	Die Spiele erschüttert
 Zeuge Zidane	Kreatin beim Ex-Club Juventus Turin
-VERBOT Das Kartellamt untersagt dem	US-Medienkonzern Liberty, sechs
 TV-Kabelgesellschaften der Deutschen	Telekom zu übernehmen.
-VERBOT Das Kartellamt untersagt dem	US-Medienkonzern Liberty, sechs
 TV-Kabelgesellschaften der Deutschen	Telekom zu übernehmen.
 Trienekens-Transporter in Köln	Spenden für alle
 Bundesanstalt für Arbeit	Wer darf die 90 000 Verwalter dirigieren?
@@ -8516,7 +8502,6 @@ Darsteller Bernd Michael Lade, Kling	Streit ums Klappfahrrad
 Dor fszene	Freiheit für einen Augenblick der Geschichte
 Mitspieler Schüttauf, Katharina Thalbach	Ihr hattet es warm
 Autorin Axelsson	Kühne Dramen
-Picart (r.), Mitstreiter vor dem	Loire-Schloss La Bussière
 Sat.1-Star Salesch	Kultﬁgur wie Dorfrichter Adam
 Gerichtsshows im deutschen Fernsehen	Je emotionaler, desto höher die Quote
 ZDF-Richter Neumann, Darsteller	Mehr Transparenz und Akzeptanz für die Arbeit der Justiz?
@@ -10437,7 +10422,6 @@ ARD-Star Christiansen (r.), Talkgast Angela Merkel	Riesenerfolg, aber auch hohe 
 Hauptstadt im Visier	Die Innenstadt von Bagdad
 US-Soldat, gefangene Iraker	Hoffnung auf Massenﬂucht
 Betende britische Soldaten in Kuweit	Zum Kreuzzug angetreten?
-Saddam und Anhänger mit einem geschenkten Schwer t nach dem	Referendum im Oktober 2002
 US-Soldat, verwundeter Iraker	Widerstand brechen
 Saddam-Söhne Kussei, Udai	Ziele für den „Enthauptungsschlag“
 Zerstörung eines Saddam-Posters in Safwan	Jubel für die Befreier
@@ -11067,7 +11051,6 @@ Firmenchef Masotti	Um Millimeter gerungen
 Kostenpﬂichtige Schnellspur in Kalifornien	Freie Fahrt zu Marktpreisen
 Straßengebühren-Kontrollzentrum in London	Die Busse kommen wieder voran
 Schönheitschirurg Nadler	Flehen der Frauenwelt
-Freiburger Proﬁs nach dem	Wiederaufstieg im Dreisamstadion
 Basketballproﬁ Fröhlich	Für die Werbung hoch attraktiv
 Neuer Irakischer Regierungsrat	Anspruch auf Vertretung des Landes
 Pentagon-Chef Rumsfeld	Verstärkung angekündigt
@@ -11668,7 +11651,6 @@ Dopingverdächtiger Chambers	Spur nach Europa
 Balco-Chef Conte	Guru der Bodybuilding-Szene
 Komponist Salieri	Falscher Verdacht
 Suhrkamp-Geschäftsführer Berg	Neue Entscheidungsstrukturen schaffen
-Montalbán starb am 18. Oktober auf dem	Flughafen Bangkok an einem Herzinfarkt.
 Ost-Premiers Milbradt, Althaus	Blick in den Abgrund
 Kanzler Schröder, Premierminister Raffarin	Auf der Anklagebank
 Türkische Brautmode	In den Hafen der Ehe geprügelt
@@ -12386,7 +12368,6 @@ Innenhof der Alhambra	Neigung zur Staubwerdung
 Kulturschale mit Myxococcus xanthus	Mürbe Steine werden stabiler als je zuvor
 Mikrobiologin Sorlini	Bakterien mit Kleister füttern
 Wunderdoktor Hadebe	Zur Kur in den Lichtsarg
-Papst-Segen auf dem	Petersplatz in Rom
 Kaiser Augustus	Kaiser Augustus
 Einzug Jesu in Jerusalem	Einzug Jesu in Jerusalem
 Aufruhr der jüdischen	Bevölkerung in Palästina
@@ -14854,7 +14835,6 @@ Chinesische Raumfähre	Jedes Jahr 440 000 neue Ingenieure
 Protestierende Siedler vor einer Straßensperre des Militärs	Wütender Widerstand von den Ziehkindern des Regierungschefs
 Erster Atombombentest der	Sowjetunion in Semipalatinsk.
 Die Kuba-Krise bringt die Welt an den	Rand eines Nuklearkriegs.
-Nordkorea tritt aus dem	Atomwaffensperrver trag aus.
 Atombombe in der Popkunst	Kultureller Big Bang
 Anschlag auf das World Trade Center	Tödliche Fracht
 Glücksspieler in Candelaria	Schatten auf der Präsidentin
@@ -15187,7 +15167,6 @@ Hahnenschweifwida mit Prunkschwanz	Miese Aerodynamik allein für die Show
 Jungferngeburt bei der Blattlaus	Idylle aus Müttern und Töchtern
 Nistendes Hindublatthühnchen-Männchen	Befreit vom Sex im Hausmann-Harem
 Rivalenkampf männlicher See-Elefanten	Die Natur hält die Männchen seit Jahrmillionen für unverzichtbar – warum?
-Als wichtigstes Kriegsgerät dient dem	Männchen sein Penis.
 Verzehren des Gottesanbeterin-Männchens beim Sex	Mehr als 80 Spezies kennen den Liebestod
 Schwarzschwanz-Präriehunde beim Sex	Weibchen erhöhen die Chance auf Empfängnis, wenn sie sich von mehreren besteigen lassen
 Plattwürmer beim Penisfechten	Ihre Körper ﬂattern wie blaugesäumte Capes zweier Musketiere
@@ -16420,7 +16399,6 @@ Brasiliens Nationaltrainer Parreira	Von Leidenschaft keine Spur
 Französisches Fußballidol Zidane	Klassischer Niedergang eines Imperiums
 NBA-Champions Wade, O’Neal	Nervenstark wie Minenräumer
 Mavericks-Profi Nowitzki	Von der Wucht der Inszenierung überrascht
-Ein Feuerwehrmann verbrennt Drogen auf dem	Campus einer Universität in Shanghai.
 Der Medizinstaat	Das Gesundheitssystem und seine Akteure
 Minister Steinbrück	Abschreckende Rechnungen
 Kinder vor einer Puppenklinik	Steuerzuschuss fürs malade System
@@ -17270,7 +17248,6 @@ Redner Körper, Andachtsbesucher im Bundestag	Kontakt mit dem Gewissen
 Partner Beckenbauer, Mateschitz	Kein Zirkusverein
 Tel Aviv	P A L Ä S T I N A
 Organempfängerin Samach auf der Terrasse des elterlichen Hauses in Pekiin	Ein Jahr nach der
-Zum Dank schickte das Mädchen mit dem	Herztransplantat ein selbstgebasteltes Herz.
 Spendereltern Abla, Ismail al-Chatib mit Samach in Pekiin	Feier der „Wiedergeburt“
 Die Reiche Israel und	Juda um 860 v. Chr.
 Rekonstruktionszeichnung der Assyrerhauptstadt Ninive	Enthauptungsschlag gegen die israelitische Nation
@@ -17762,7 +17739,6 @@ Unternehmer Würth	Den Verlockungen erlegen
 Bankier Krockow	Umzug der Konzernleitung
 Konzernlenker Piëch	Privatstiftung in Salzburg
 Pharmahändler Kohl	Begehrliche Blicke über die Brücke
-Ausgründungsverzicht aus dem	Konzern bis 31. Dezember 2010
 Geld für alle	Die Idee des bedingungslosen Grundeinkommens
 Autokäuferin, Hornbach-Werbung	Autohersteller tüfteln
 Karpatenhund-Mitglieder Jansen, Oelkers, Sonnenberg bei Videoproduktion	Ganz vorn mitreiten auf der neuen Neuen Deutschen Welle
@@ -18716,7 +18692,6 @@ Fischtreppe an der	Staustufe bei Gambsheim
 Lehrer Fischer (r.) beim Astronomieunterricht in Heidelberg	In der Mars-Region Tyrrhena Terra klafft ein knapp einen Kilometer tiefer Krater
 Die Temperatur ist mit zunehmender	Höhe niedriger.
 Die Schwerkraft wird mit zunehmender	Höhe geringer.
-Was passiert mit dem	Wasser im Becher?
 Schultest in Großbritannien	Gute Gaben für lustlose Kandidaten
 Berliner Schülerinnen bei der Fahrzeugkonstruktion	Der Standort Deutschland wird schon in der Schule verteidigt
 Oberstufenschüler bei Versuch	Sorge auf hohem Niveau
@@ -20503,7 +20478,6 @@ Leiharbeiter Markwart, Wilberg	Kein Einsatz – kein Geld
 Schichtarbeiter eines Stahlwerks in der Provinz Jiangsu	Plötzlich stehen die Maschinen still
 Hamburger Reeder Offen	Die Frachtraten stürzen ins Bodenlose
 Terror in Mumbai	Die Anschläge vom 26. und 27. November
-Schusswechsel mit der Polizei vor dem	Krankenhaus Cama and Albless.
 Bahnhof Chhatrapati	Shivaji Terminus
 Jüdisches Zentrum	Chabad Lubawitsch
 Armeechef Anupong, Premier Somchai	Von einer Krise in die nächste
@@ -20590,7 +20564,6 @@ Weinlagertanks der Großkellerei Casella Wines im australischen Yenda	Weltweit d
 Mosel-Winzer Loosen	Aufräumarbeiten in der Riesling-Ruine
 Szene aus „Das	Wunder von Bern“
 Medienunternehmer Macpherson	Nachrichtenproduktion mit Rentnern und Indern
-Gefangenentransport auf dem	Weg nach Guantanamo (2002)
 Somalische Freibeuter	Dickschiffe ziehen Piraten an wie der Elefant die schmarotzende Dasselfliege
 Republikchef Kokoity	So unberechenbar wie Saakaschwili
 Textilfabrik in Semily	Tischtücher und Bettwäsche für den Westen
@@ -22831,7 +22804,6 @@ Traumaexpertin Wilms	Dem Schrecken ein Symbol geben
 September Quelle	B loomberg ; * (P)or tugal, (I)r land, (I)talien, (G)r iechenland, (S)panien
 Gefährdete Euro-Länder	Die Währungsunion entwickelte sich zur Schuldengemeinschaft
 Deutsche-Bank-Chef Ackermann	In Athen als Vermittler angedient
-Unterschriften unter dem	Maastrichter Vertrag (Faksimile)
 Windpark bei Klettwitz	Unkoordinierte Politik
 Politikerinnen Ashton, Clinton in Washington	Auf Augenhöhe mit den Weltmächten?
 Präsidenten Sarkozy, Lula in Brasilien	Die Franzosen machen das Geschäft
@@ -25106,7 +25078,6 @@ Regierungspartner Berlusconi, Tremonti	Munter intrigiert
 Präsident Sarkozy bei nationaler Krisensitzung	Zweifelhafter Sparwille
 Regierungspartner Berlusconi, Tremonti	Munter intrigiert
 MDR-Zentrale in Leipzig, Intendant Reiter	Die erste Million auf ein Privatkonto
-US-Soldaten auf dem	Militärflugplatz bei Bischkek
 Regierungschef Cameron	Krieg gegen die Gang-Kultur
 Ausgebrannte Häuserzeile im Londoner	Stadtteil Croydon
 Plündernde Jugendliche in Birmingham	Mit Autos in die Schaufenster gerast
@@ -26429,7 +26400,6 @@ Ministerin Schröder, Babyklappe in Lübeck	Angst vor der Konfrontation
 Babyklappen-Betreiberin Garbe	Der Ältere konnte schon stehen und Mama sagen
 Sternipark-Leiterin Moysich (r.), Prominente Schweiger, Cukrowski	Aggressives Marketing
 Szene-Größe Schönborn 1987, Waffenarsenal	Nachruf auf den überzeugten Nationalsozialisten
-Millionär Chen vor dem	New Paris Hotel in Harbin
 Wohltäter Chen	Fast zwei Millionen Menschen habe er schon geholfen, sagt er
 Vaterlandsheld Chen	Die KP hat allen Grund, eifersüchtig auf ihn zu sein
 Deutsche-Bank-Chef Jain	Zwei Mitarbeiter wurden bereits suspendiert
@@ -27025,7 +26995,6 @@ Ehepaar Geerkens	Taschengeld vom väterlichen Freund
 SPD-Politiker Steinbrück	Selbst kleine Themen werden für ihn zum Hindernis
 Grüne Spitzenkandidatin Göring-Eckardt	Unnötige Fragen des Umgangs
 Frauen im Beck-Kabinett	Tuscheln und scherzen
-Demonstranten auf dem	Tahrir-Platz in Kairo
 Islamistinnen vor dem Gericht von Manouba	Über der Universtät wehte die schwarze Flagge des Kalifats
 Proteste gegen Sozialkürzungen in London	Dreckige, kalte, hungrige Zeiten
 Pussy-Riot-Mitglied Samuzewitsch	Facebook-Kontakt zu den Unterstützern
@@ -27094,7 +27063,6 @@ Mit 360°-Panoramafotos, interaktiven	Graﬁken und 3-D-Modellen
 Zentrale der Deutschen Bank, Konzernchef Fitschen	Entsetzen in der Belegschaft
 KfW-Chef Schröder	Mehr Milliarden bedeuten mehr Macht
 Familie Peinado	Bis zuletzt im Ungewissen
-Bürgermeister Cornellà vor dem	Rathaus von Celrà
 Präsidentschaftskandidat Zeman	Rau und direkt
 Hütten in Wonchi	Kein Strom, kein fließend Wasser, keine Schule
 Konzeptzeichnung des geräuscharmen	Hubschraubers Eurocopter X4
@@ -27417,7 +27385,6 @@ Villani-Niederschrift von Formeln	Lianen im Dschungel
 DJ Westbam in seinem	Berliner Studio
 Britische Band The Staves	Vertraut, verletzlich, cool
 Superstar Messi	An Selbstgewissheit verloren
-Kletterer Stangl auf dem	Mount Logan in Kanada 2010
 Managerin Sandberg in der	Hamburger Facebook-Niederlassung
 Facebook-Gründer Zuckerberg	Mehr Frauen in die Führung
 Wo Abgeordnete Angehörige auf	Staatskosten beschäftigen dürfen
@@ -27736,7 +27703,6 @@ Ehemaliger Häftling Than Htay	Kraft zur Versöhnung
 Straße in der Hauptstadt Naypyidaw	Man will sich demokratisch geben, aber das ist schwer in einer Architektur der Diktatur
 Fernsehdirektor Tint Swe	Nur den Chefsessel gewechselt
 Erdbebenopfer Kruizinga vor ihrem Haus	Vibrierende Betten
-Massen-Yoga auf dem	Times Square in New York
 Hindu-Göttin Kali	Versteckt wie eine peinliche Verwandte
 Kunstfreund Natanov 2005 in Perm	Pretiosen aus „uraltem Familienbesitz“
 Springer-Chef Döpfner	Chirurgischer Schnitt ins Portfolio
@@ -28391,7 +28357,6 @@ Preisträger Dalai Lama 2009*, Clooney	Größen im Schwarzwald
 Gemälde der DIS-Patientin Cuyp	Mal junge Frau, mal alter Mann
 Ex-DIS-Patientin Lievens	Abends mit den Ichs auf der Treppe
 Unternehmer Kemper bei der	Ölreinigung an einem Pkw
-Ex-Präsident Wulff vor dem	Landgericht Hannover
 Christdemokrat Juncker	Rückendeckung von der Kanzlerin
 Sozialdemokrat Schulz	Bis ins Letzte ausgereizt
 Demonstranten in Hamburg	Verbotenen Wucher von erlaubtem Profit unterscheiden
@@ -28467,7 +28432,6 @@ Beschuldigte Islamisten	Sie legten fest, wer zuerst schießen sollte
 EU-Kommissionspräsident Barroso	Niemand soll am Pranger stehen
 Yachthafen in Rostock	Vom Geldsegen der EU wollen auch in Deutschland viele profitieren
 Bitcoin-Unternehmer Lukasiewicz	Ehrliches Verständnis für unsere Technologie
-Intensive Beschäftigung mit dem	Schicksal nachfolgender Generationen
 Unterstützung von	Nachbarn im Alltag
 Unterstützung von	Familienangehörigen im Alltag
 Kunde vor Supermarktregal	Muss alles, was draufsteht, auch drin sein?
@@ -28479,7 +28443,6 @@ Russe Safronow	Flucht mit der Schrotflinte
 Muslim Abdullah beim Gebet	Traum von der Scharia
 Trauernde bei der Beerdigung des Jugendlichen Elvan	Symbol des Widerstands gegen die Regierung
 Angeklagter Pistorius	Ballern in schlaflosen Nächten
-Hoeneß nach dem	Flugzeugabsturz 1982
 Anwalt Feigen, Angeklagter Hoeneß am 10. März	Zwei Männer etwa gleichen Alters, gleichen Selbstbewusstseins, beide Machtmenschen
 Richter Heindl	Knochenhart, staubtrocken, wenn es sein muss, ein Erbsenzähler
 Unendliche Welten	Das „Polymath8“-Projekt der Primzahlforscher
@@ -30035,7 +29998,6 @@ Gaststätte in Zhengs Heimatort	Eselsuppe, Eselsülze, Eselfleisch
 Unterschätzte Gefahr	Mögliche Angriffspunkte von Hackern im Luftverkehr
 Ciudadanos-Chef Rivera	Glaubwürdiger und weniger verbraucht
 Gebiete unter	Kontrolle des IS
-Gebiete unter dem	Einﬂuss des IS
 Oberfeldwebel Rico (r.), Kamerad	Endlich mal richtig kämpfen
 IH (9) Thilo Bode	Die Freihandelslüge
 II (7) Mahtob Mahmoody	Endlich frei
