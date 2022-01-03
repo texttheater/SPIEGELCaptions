@@ -1,4 +1,3 @@
-__pycache__
-*.pyc
-config.py
-articles
+/__pycache__
+/config.py
+/pdfs
