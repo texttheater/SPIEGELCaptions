@@ -14,7 +14,7 @@ if __name__ == '__main__':
             #client_secret=config.client_secret,
             #access_token=config.access_token,
         access_token = 'token.secret',
-        api_base_url = 'https://botsin.space/',
+        api_base_url = 'https://mastodon.social/',
     )
     #mastodon.log_in(config.email, config.password)
     bot_home = os.path.dirname(__file__)
