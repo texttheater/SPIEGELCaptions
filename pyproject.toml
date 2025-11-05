@@ -1,0 +1,7 @@
+[project]
+name = "spiegelcaptions"
+version = "0.1.0"
+description = "Posts fake DER SPIEGEL image captions to Mastodon"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ['Mastodon.py']

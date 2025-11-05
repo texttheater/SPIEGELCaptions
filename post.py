@@ -29,4 +29,5 @@ if __name__ == '__main__':
     part1 = random.choice(parts1)
     part2 = random.choice(parts2)
     text = '{}: {}'.format(part1, part2)
+    print(text)
     mastodon.toot(text)
